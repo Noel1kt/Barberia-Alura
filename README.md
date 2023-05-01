@@ -1,6 +1,12 @@
 # Barberia-Alura
-Página web completa para una Barbería. 
-![Diseño Web](.\imagenes\imagenes\Desing.jpeg)
+<h3>Página web completa para una Barbería.</h3>
 
-Responsiva. 
-![Diseño Responsividad](.\imagenes\imagenes\Responsive.jpeg)
+<p align="center">
+<img src="imagenes/imagenes/Desing.jpeg" alt="Diseño Web">
+</p>
+
+<h3>Responsiva</h3> 
+
+<p align="center">
+<img src="imagenes/imagenes/Responsive.jpeg" alt="Diseño Responsividad">
+</p>
